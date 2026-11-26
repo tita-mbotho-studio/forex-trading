@@ -1,0 +1,11 @@
+[project]
+name = "forex-trading"
+version = "0.1.0"
+description = "Practical Forex trading foundations and calculation notebooks"
+requires-python = ">=3.11"
+dependencies = [
+    "jupyterlab>=4,<5",
+]
+
+[tool.uv]
+package = false

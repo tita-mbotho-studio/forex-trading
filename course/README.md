@@ -4,7 +4,7 @@ The goal is a short foundation course with enough theory to understand practical
 
 | Module | Topic | Focus |
 | --- | --- | --- |
-| 01 | Introduction to Forex Trading | Currency pairs, bid/ask, long/short, brokers and other markets. |
+| 01 | [Introduction to Forex Trading](01-introduction.md) | Currency pairs, bid/ask, long/short, brokers and other markets. |
 | 02 | Essential Trading Terminology | Pips, ticks, lots, costs, leverage, margin, equity and stop-outs. |
 | 03 | Trading Sessions and Timeframes | SAST, daylight saving, liquidity, volatility and M1 considerations. |
 | 04 | MetaTrader 5 | Demo setup, charts, orders, SL/TP, trailing stops, hedging and netting. |

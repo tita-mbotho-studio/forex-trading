@@ -2,7 +2,7 @@
 
 | ID | Deliverable | Status |
 | --- | --- | --- |
-| 00 | Project setup | Awaiting review |
+| 00 | Project setup | Approved and merged |
 | 01 | Introduction to Forex Trading | Planned |
 | 02 | Essential Trading Terminology | Planned |
 | 03 | Trading Sessions and Timeframes | Planned |

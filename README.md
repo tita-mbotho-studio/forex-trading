@@ -21,12 +21,15 @@ Capital preservation first. Consistency second. Profitability third. Better risk
 
 ## Local setup
 
-Read Markdown in GitHub or VS Code; no Python installation is needed for the lessons. For later notebooks, use Python 3.11 or newer and [uv](https://docs.astral.sh/uv/).
+Read Markdown in GitHub or VS Code; no Python installation is needed for the lessons. Run notebooks directly in VS Code using the Microsoft Python and Jupyter extensions and a Python 3.11+ kernel. JupyterLab is not required.
+
+If you already have a compatible Python environment with `ipykernel`, select it in VS Code. Otherwise, optionally use [uv](https://docs.astral.sh/uv/) to create the project environment from the repository root:
 
 ```powershell
 uv sync
-uv run jupyter lab
 ```
+
+Open an `.ipynb` file, choose **Select Kernel** > **Python Environments**, and select the project's `.venv` interpreter (on Windows, `.venv\Scripts\python.exe`). Run cells in order or choose **Run All**. No manual kernel registration or separate notebook server is required.
 
 For setup validation (no third-party packages needed):
 

@@ -11,7 +11,7 @@ Never merge an unapproved implementation or enable auto-merge. Avoid force pushe
 
 ## Content standards
 
-Keep theory short. Use everyday examples and South African time (SAST) where relevant. Explain instrument-specific assumptions, units, and costs. Verify external links and distinguish illustrative strategies from proven results. Prefer simple code and standard libraries; use uv for notebook dependencies.
+Keep theory short. Use everyday examples and South African time (SAST) where relevant. Explain instrument-specific assumptions, units, and costs. Verify external links and distinguish illustrative strategies from proven results. Prefer simple code and standard libraries; use VS Code with a Python kernel for notebooks. The only direct notebook runtime dependency is ipykernel; uv is available for creating the project environment.
 
 For notebooks, execute examples and test calculations, including invalid inputs. For MT5, compile with MetaEditor and record demo test evidence across compatible instruments and account modes before claiming support. Never claim exact loss limits or guaranteed execution.
 

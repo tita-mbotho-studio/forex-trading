@@ -15,4 +15,8 @@ Planned notebooks:
 
 Each notebook will include a brief explanation, formula, worked example, reusable Python function, practical exercise, online calculator links in Markdown where available, and common mistakes. Use account currency consistently; distinguish a percentage of equity from a percentage of price. Account for broker-specific contract details and costs.
 
-Use `uv sync` and `uv run jupyter lab` from the repository root when notebooks are available.
+## Running notebooks in VS Code
+
+Install the Microsoft Python and Jupyter extensions if needed. Open a notebook and choose **Select Kernel** > **Python Environments**. Select your existing Python 3.11+ environment with `ipykernel` installed, or use `uv sync` once from the repository root to create the project `.venv` and select that interpreter. Then run all cells in order. No JupyterLab installation or server is needed.
+
+See the [local setup instructions](../README.md#local-setup).

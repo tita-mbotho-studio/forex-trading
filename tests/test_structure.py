@@ -42,6 +42,7 @@ class TestProjectStructure(unittest.TestCase):
             config = tomllib.load(file)
         self.assertEqual(config["project"]["requires-python"], ">=3.11")
         self.assertFalse(config["tool"]["uv"]["package"])
+        self.assertEqual(config["project"]["dependencies"], ["ipykernel>=6"])
 
 
 if __name__ == "__main__":

@@ -1,10 +1,12 @@
 # Calculation notebooks
 
-Planned notebooks (not yet implemented):
+Module 02 notebooks:
 
-- `01_pips_and_tick_values.ipynb`
-- `02_profit_and_loss.ipynb`
-- `03_leverage_and_margin.ipynb`
+- [01 — Pips and tick values](01_pips_and_tick_values.ipynb)
+- [02 — Profit and loss](02_profit_and_loss.ipynb)
+- [03 — Leverage and margin](03_leverage_and_margin.ipynb)
+
+Planned notebooks:
 - `04_position_sizing.ipynb`
 - `05_stop_loss_take_profit.ipynb`
 - `06_risk_to_reward.ipynb`

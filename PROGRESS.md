@@ -4,7 +4,7 @@
 | --- | --- | --- |
 | 00 | Project setup | Approved and merged |
 | 01 | Introduction to Forex Trading | Approved and merged |
-| 02 | Essential Trading Terminology | Planned |
+| 02 | Essential Trading Terminology | Awaiting review |
 | 03 | Trading Sessions and Timeframes | Planned |
 | 04 | MetaTrader 5 | Planned |
 | 05 | Technical Analysis | Planned |

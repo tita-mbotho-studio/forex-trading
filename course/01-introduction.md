@@ -154,4 +154,4 @@ Try answering before expanding the solutions.
 - [MetaTrader 5 — Executing trades](https://www.metatrader5.com/en/terminal/help/trading/performing_deals): order execution and quotes.
 - [CFTC — Eight things to know before trading Forex](https://www.cftc.gov/LearnAndProtect/AdvisoriesAndArticles/CustomerAdvisory_MustKnowForex.html): general retail Forex risks (US regulator; local regulatory rules differ).
 
-**Next:** Module 02 — Essential Trading Terminology (pips, lots, costs, leverage, margin and practical calculations).
+**Next:** [Module 02 — Essential Trading Terminology](02-trading-terminology.md) (pips, lots, costs, leverage, margin and practical calculations).

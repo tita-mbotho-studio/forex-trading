@@ -1,10 +1,12 @@
 # Calculation notebooks
 
-Planned notebooks (not yet implemented):
+Module 02 notebooks:
 
-- `01_pips_and_tick_values.ipynb`
-- `02_profit_and_loss.ipynb`
-- `03_leverage_and_margin.ipynb`
+- [01 — Pips and tick values](01_pips_and_tick_values.ipynb)
+- [02 — Profit and loss](02_profit_and_loss.ipynb)
+- [03 — Leverage and margin](03_leverage_and_margin.ipynb)
+
+Planned notebooks:
 - `04_position_sizing.ipynb`
 - `05_stop_loss_take_profit.ipynb`
 - `06_risk_to_reward.ipynb`
@@ -13,4 +15,8 @@ Planned notebooks (not yet implemented):
 
 Each notebook will include a brief explanation, formula, worked example, reusable Python function, practical exercise, online calculator links in Markdown where available, and common mistakes. Use account currency consistently; distinguish a percentage of equity from a percentage of price. Account for broker-specific contract details and costs.
 
-Use `uv sync` and `uv run jupyter lab` from the repository root when notebooks are available.
+## Running notebooks in VS Code
+
+Install the Microsoft Python and Jupyter extensions if needed. Open a notebook and choose **Select Kernel** > **Python Environments**. Select your existing Python 3.11+ environment with `ipykernel` installed, or use `uv sync` once from the repository root to create the project `.venv` and select that interpreter. Then run all cells in order. No JupyterLab installation or server is needed.
+
+See the [local setup instructions](../README.md#local-setup).

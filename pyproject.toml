@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Practical Forex trading foundations and calculation notebooks"
 requires-python = ">=3.11"
 dependencies = [
-    "jupyterlab>=4,<5",
+    "ipykernel>=6",
 ]
 
 [tool.uv]

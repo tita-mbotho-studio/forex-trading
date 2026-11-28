@@ -7,7 +7,7 @@
 | 02 | Essential Trading Terminology | Approved and merged |
 | 03 | Trading Sessions and Timeframes | Approved and merged |
 | 04 | MetaTrader 5 | Approved and merged |
-| 05 | Technical Analysis | Planned |
+| 05 | Technical Analysis | Awaiting review |
 | 06 | Technical Indicators | Planned |
 | 07 | Fundamental Analysis | Planned |
 | 08 | Risk Management | Planned |

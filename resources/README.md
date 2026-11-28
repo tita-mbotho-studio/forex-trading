@@ -17,3 +17,13 @@ These third-party tools may use current exchange rates or different broker assum
 - [MT5 chart timeframes](https://www.metatrader5.com/en/terminal/help/charts_analysis/charts)
 
 Session conventions and broker execution hours can differ. Use SAST (UTC+2), check the date and confirm broker hours separately.
+
+## Platform operation — Module 04
+
+- [Official MT5 help](https://www.metatrader5.com/en/terminal/help)
+- [Demo account setup](https://www.metatrader5.com/en/terminal/help/startworking/acc_open)
+- [Order types and account modes](https://www.metatrader5.com/en/terminal/help/trading/general_concept)
+- [Order execution and position management](https://www.metatrader5.com/en/terminal/help/trading/performing_deals)
+- [One-click trading](https://www.metatrader5.com/en/terminal/help/trading/one_click_trading)
+
+Use demo accounts for platform exercises. Confirm symbol-specific rules and actual accepted protection.

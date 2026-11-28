@@ -148,7 +148,7 @@ Use your observations to understand execution conditions, not to conclude that a
 - M1 is fast; use a defined process and observe higher-timeframe context.
 - Know your planned risk before entering a trade.
 
-**Next:** Module 04 — MetaTrader 5.
+**Next:** [Module 04 — MetaTrader 5](04-metatrader-5.md).
 
 ## References (optional)
 

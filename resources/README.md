@@ -27,3 +27,12 @@ Session conventions and broker execution hours can differ. Use SAST (UTC+2), che
 - [One-click trading](https://www.metatrader5.com/en/terminal/help/trading/one_click_trading)
 
 Use demo accounts for platform exercises. Confirm symbol-specific rules and actual accepted protection.
+
+## Technical analysis — Module 05
+
+- [MT5 chart tools](https://www.metatrader5.com/en/terminal/help/charts_analysis/charts)
+- [MT5 drawing lines](https://www.metatrader5.com/en/terminal/help/objects/lines)
+- [Candlestick reference](https://www.ig.com/za/trading-strategies/japanese-candlestick-trading-guide-200615)
+- [Support and resistance](https://www.fidelity.com/learning-center/trading-investing/technical-analysis/support-and-)
+
+Patterns describe past behaviour, not guaranteed outcomes.

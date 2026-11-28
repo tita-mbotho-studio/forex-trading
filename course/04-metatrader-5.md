@@ -169,7 +169,7 @@ Answer these questions before opening the solutions:
 - One-click trading and terminal-side trailing have limitations.
 - Account mode determines how positions are combined or separated.
 
-**Next:** Module 05 — Technical Analysis.
+**Next:** [Module 05 — Technical Analysis](05-technical-analysis.md).
 
 ## Official platform references
 

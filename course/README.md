@@ -7,7 +7,7 @@ The goal is a short foundation course with enough theory to understand practical
 | 01 | [Introduction to Forex Trading](01-introduction.md) | Currency pairs, bid/ask, long/short, brokers and other markets. |
 | 02 | [Essential Trading Terminology](02-trading-terminology.md) | Pips, ticks, lots, costs, leverage, margin, equity and stop-outs. |
 | 03 | [Trading Sessions and Timeframes](03-trading-sessions.md) | SAST, daylight saving, liquidity, volatility and M1 considerations. |
-| 04 | MetaTrader 5 | Demo setup, charts, orders, SL/TP, trailing stops, hedging and netting. |
+| 04 | [MetaTrader 5](04-metatrader-5.md) | Demo setup, charts, orders, SL/TP, trailing stops, hedging and netting. |
 | 05 | Technical Analysis | Candlesticks, trend, support/resistance, breakouts and multiple timeframes. |
 | 06 | Technical Indicators | MA, EMA, RSI, MACD, ATR, Bollinger Bands and Fibonacci retracement. |
 | 07 | Fundamental Analysis | Rates, CPI, GDP, NFP, central banks and economic calendars. |

@@ -10,3 +10,10 @@ Verified links to online calculators, economic calendars, MT5 documentation and 
 - [Margin](https://www.myfxbook.com/forex-calculators/margin-calculator)
 
 These third-party tools may use current exchange rates or different broker assumptions; compare with matching notebook inputs and MT5 symbol specifications.
+
+## Trading sessions — Module 03
+
+- [Date-aware Forex session time converter](https://forexmechanics.com/trading-hours/trading-sessions/)
+- [MT5 chart timeframes](https://www.metatrader5.com/en/terminal/help/charts_analysis/charts)
+
+Session conventions and broker execution hours can differ. Use SAST (UTC+2), check the date and confirm broker hours separately.

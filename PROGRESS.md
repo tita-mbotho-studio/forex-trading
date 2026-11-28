@@ -6,7 +6,7 @@
 | 01 | Introduction to Forex Trading | Approved and merged |
 | 02 | Essential Trading Terminology | Approved and merged |
 | 03 | Trading Sessions and Timeframes | Approved and merged |
-| 04 | MetaTrader 5 | Awaiting review |
+| 04 | MetaTrader 5 | Approved and merged |
 | 05 | Technical Analysis | Planned |
 | 06 | Technical Indicators | Planned |
 | 07 | Fundamental Analysis | Planned |

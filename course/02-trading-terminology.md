@@ -118,7 +118,7 @@ Answer before opening the solutions:
 - Use actual broker specifications, not universal pip/lot assumptions.
 - Keep demo trades small enough to follow your rules without unnecessary emotional pressure.
 
-**Next:** Module 03 — Trading Sessions and Timeframes.
+**Next:** [Module 03 — Trading Sessions and Timeframes](03-trading-sessions.md).
 
 ## References (optional)
 
